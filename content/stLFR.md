@@ -3,7 +3,7 @@ title= "stLFR"
 weight=5
 +++
 
-## Single-Tuble Long Fragment Reads (stLFR)
+## Single-Tube Long Fragment Reads (stLFR)
 
 Another of the presently available commercial linked-read options. stLFR data uses combinatorial barcodes
 made up for three 10bp segments which are at the end of the `R2` read. Demultiplexing these data results
