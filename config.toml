@@ -1,4 +1,4 @@
-base_url = "https://pdimens.github.io/lastq/"
+base_url = "https://BLinkseq.github.io/lastq/"
 title = "Standard Linked-Read Format"
 theme = "tanuki"
 build_search_index = true
@@ -6,5 +6,5 @@ compile_sass = true
 
 [extra]
 mode = "docs"
-github = "https://github.com/pdimens/lastq"
+github = "https://github.com/BLinkseq/lastq"
 favicon = "/img/logo.png"
